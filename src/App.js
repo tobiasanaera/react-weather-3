@@ -10,7 +10,11 @@ function App() {
         <Weather />
         <footer>
           This project was coded by Regina Thomson and is{" "}
-          <a href="" target="">
+          <a
+            href="https://github.com/tobiasanaera/react-weather-3"
+            target="_blank"
+            rel="noreferrer"
+          >
             Open-sourced on Github
           </a>{" "}
           and{" "}
